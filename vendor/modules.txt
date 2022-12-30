@@ -1,0 +1,28 @@
+# github.com/FactomProject/basen v0.0.0-20150613233007-fe3947df716e
+github.com/FactomProject/basen
+# github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec
+github.com/FactomProject/btcutilecc
+# github.com/btcsuite/btcd v0.21.0-beta
+## explicit
+github.com/btcsuite/btcd/btcec
+github.com/btcsuite/btcd/chaincfg
+github.com/btcsuite/btcd/chaincfg/chainhash
+github.com/btcsuite/btcd/txscript
+github.com/btcsuite/btcd/wire
+# github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
+github.com/btcsuite/btclog
+# github.com/btcsuite/btcutil v1.0.2
+## explicit
+github.com/btcsuite/btcutil
+github.com/btcsuite/btcutil/base58
+github.com/btcsuite/btcutil/bech32
+# github.com/tyler-smith/go-bip32 v1.0.0
+## explicit
+github.com/tyler-smith/go-bip32
+# github.com/tyler-smith/go-bip39 v1.1.0
+## explicit
+github.com/tyler-smith/go-bip39
+github.com/tyler-smith/go-bip39/wordlists
+# golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+golang.org/x/crypto/pbkdf2
+golang.org/x/crypto/ripemd160
